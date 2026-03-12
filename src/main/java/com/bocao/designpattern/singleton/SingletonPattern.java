@@ -1,4 +1,4 @@
-package com.bocao.designpattern.designpattern;
+package com.bocao.designpattern.singleton;
 
 /**
  * 这是单例模式的具体实践

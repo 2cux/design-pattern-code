@@ -1,8 +1,7 @@
-package com.bocao.designpattern.designpattern;
+package com.bocao.designpattern.singleton;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 class SingletonPatternTest {
     /*
        使用单例模式创建两个对象，看他们是否是同一个对象，如果是同一个对象，那么单例模式就是正确的
