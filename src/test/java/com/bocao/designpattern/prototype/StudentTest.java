@@ -1,4 +1,4 @@
-package com.bocao.designpattern.prototype.shallow;
+package com.bocao.designpattern.prototype;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

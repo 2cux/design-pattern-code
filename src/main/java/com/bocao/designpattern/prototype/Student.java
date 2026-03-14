@@ -1,4 +1,4 @@
-package com.bocao.designpattern.prototype.shallow;
+package com.bocao.designpattern.prototype;
 
 import lombok.Data;
 import org.springframework.context.annotation.Scope;
