@@ -12,6 +12,8 @@ import java.util.Map;
 @Component
 public class PayFactory {
 
+
+//    String代表注入Bean的名字，PayService代表注入Bean的实例
     @Autowired
     private Map<String, PayService> payServiceMap;
 
