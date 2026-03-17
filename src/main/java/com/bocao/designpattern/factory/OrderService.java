@@ -3,7 +3,7 @@ package com.bocao.designpattern.factory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("factoryOrderService")
 public class OrderService {
 
     //注入工厂类，用于创建支付服务对象
